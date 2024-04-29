@@ -1,5 +1,5 @@
 Salut, je suis Florian 👋
-Je suis passionné(e) le dev. Bienvenue sur mon profil GitHub, où vous trouverez une variété de projets sur lesquels j'ai travaillé.
+Je suis passionné par le dev. Bienvenue sur mon profil GitHub, où vous trouverez une variété de projets sur lesquels j'ai travaillé.
 
 🔭 Projets en cours
 ...
