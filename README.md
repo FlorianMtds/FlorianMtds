@@ -12,10 +12,9 @@ SOCIAL
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://www.instagram.com/yesfloishere/" rel="nofollow">Instagram</a>
 
-https://x.com/FlorianEiko
+<a href="https://x.com/FlorianEiko" rel="nofollow">X</a>
 
-https://www.linkedin.com/in/florian-martins-dias/
-
+<a href="https://x.com/FlorianEiko" rel="nofollow">X</a>
 <!---
 FlorianMtds/FlorianMtds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
