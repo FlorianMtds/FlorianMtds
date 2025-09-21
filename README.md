@@ -7,7 +7,9 @@ florianmtddev@gmail.com
 SOCIAL
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 https://www.instagram.com/
+
 https://x.com/FlorianEiko
+
 https://www.linkedin.com/in/florian-martins-dias/
 
 <!---
