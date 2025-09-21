@@ -10,7 +10,7 @@ florianmtddev@gmail.com
 
 SOCIAL
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-https://www.instagram.com/yesfloishere/
+<a href="https://www.instagram.com/yesfloishere/" rel="nofollow">Instagram</a>
 
 https://x.com/FlorianEiko
 
